@@ -1,1 +1,1 @@
-# Statastics
+# Supervised Learning
